@@ -1,0 +1,483 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1078 270" width="1078" height="270" role="img" aria-label="p4rkr">
+<title>p4rkr</title>
+<defs>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter>
+  <clipPath id="card"><rect width="1078" height="270" rx="14"/></clipPath>
+</defs>
+<style>
+  .d { fill: #1e1e1e; animation: wave 7s linear infinite; }
+  .k { animation-name: wave, twinkle; }
+  .t { fill: #b4b4b4; animation: text 7s linear infinite; }
+  .glow { animation: sweep 7s linear infinite; }
+  @keyframes wave { 0%, 100% { fill: #1e1e1e; } 2.5% { fill: #8755e6; } 9% { fill: #1e1e1e; } }
+  @keyframes text { 0%, 100% { fill: #b4b4b4; } 2.5% { fill: #ffffff; } 8% { fill: #b08cf5; } 22% { fill: #b4b4b4; } }
+  @keyframes twinkle { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }
+  @keyframes sweep { 0% { transform: translateX(-140px); opacity: 0; } 4% { opacity: 1; } 42% { opacity: 1; } 48% { transform: translateX(1218px); opacity: 0; } 100% { transform: translateX(1218px); opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .d, .t, .k, .glow { animation: none; } .glow { opacity: 0; } }
+</style>
+<g clip-path="url(#card)">
+  <rect width="1078" height="270" fill="#0b0b0b"/>
+  <g class="glow"><ellipse cx="0" cy="135" rx="90" ry="135" fill="#8755e6" opacity=".22" filter="url(#blur)"/></g>
+  <circle class="d k" cx="44" cy="36" r="5" style="animation-delay:0.000s,5.52s;animation-duration:7s,4.45s"/>
+  <circle class="d" cx="66" cy="36" r="5" style="animation-delay:0.060s"/>
+  <circle class="d" cx="88" cy="36" r="5" style="animation-delay:0.120s"/>
+  <circle class="d" cx="110" cy="36" r="5" style="animation-delay:0.180s"/>
+  <circle class="d" cx="132" cy="36" r="5" style="animation-delay:0.240s"/>
+  <circle class="d" cx="154" cy="36" r="5" style="animation-delay:0.300s"/>
+  <circle class="d" cx="176" cy="36" r="5" style="animation-delay:0.360s"/>
+  <circle class="d" cx="198" cy="36" r="5" style="animation-delay:0.420s"/>
+  <circle class="d" cx="220" cy="36" r="5" style="animation-delay:0.480s"/>
+  <circle class="d" cx="242" cy="36" r="5" style="animation-delay:0.540s"/>
+  <circle class="d" cx="264" cy="36" r="5" style="animation-delay:0.600s"/>
+  <circle class="d" cx="286" cy="36" r="5" style="animation-delay:0.660s"/>
+  <circle class="d" cx="308" cy="36" r="5" style="animation-delay:0.720s"/>
+  <circle class="d" cx="330" cy="36" r="5" style="animation-delay:0.780s"/>
+  <circle class="d" cx="352" cy="36" r="5" style="animation-delay:0.840s"/>
+  <circle class="d k" cx="374" cy="36" r="5" style="animation-delay:0.900s,4.10s;animation-duration:7s,5.34s"/>
+  <circle class="d" cx="396" cy="36" r="5" style="animation-delay:0.960s"/>
+  <circle class="d" cx="418" cy="36" r="5" style="animation-delay:1.020s"/>
+  <circle class="d" cx="440" cy="36" r="5" style="animation-delay:1.080s"/>
+  <circle class="d" cx="462" cy="36" r="5" style="animation-delay:1.140s"/>
+  <circle class="d" cx="484" cy="36" r="5" style="animation-delay:1.200s"/>
+  <circle class="d" cx="506" cy="36" r="5" style="animation-delay:1.260s"/>
+  <circle class="d" cx="528" cy="36" r="5" style="animation-delay:1.320s"/>
+  <circle class="d" cx="550" cy="36" r="5" style="animation-delay:1.380s"/>
+  <circle class="d" cx="572" cy="36" r="5" style="animation-delay:1.440s"/>
+  <circle class="d" cx="594" cy="36" r="5" style="animation-delay:1.500s"/>
+  <circle class="d" cx="616" cy="36" r="5" style="animation-delay:1.560s"/>
+  <circle class="d" cx="638" cy="36" r="5" style="animation-delay:1.620s"/>
+  <circle class="d" cx="660" cy="36" r="5" style="animation-delay:1.680s"/>
+  <circle class="d" cx="682" cy="36" r="5" style="animation-delay:1.740s"/>
+  <circle class="d" cx="704" cy="36" r="5" style="animation-delay:1.800s"/>
+  <circle class="d" cx="726" cy="36" r="5" style="animation-delay:1.860s"/>
+  <circle class="d" cx="748" cy="36" r="5" style="animation-delay:1.920s"/>
+  <circle class="d" cx="770" cy="36" r="5" style="animation-delay:1.980s"/>
+  <circle class="d" cx="792" cy="36" r="5" style="animation-delay:2.040s"/>
+  <circle class="d" cx="814" cy="36" r="5" style="animation-delay:2.100s"/>
+  <circle class="d" cx="836" cy="36" r="5" style="animation-delay:2.160s"/>
+  <circle class="d" cx="858" cy="36" r="5" style="animation-delay:2.220s"/>
+  <circle class="d k" cx="880" cy="36" r="5" style="animation-delay:2.280s,1.64s;animation-duration:7s,5.80s"/>
+  <circle class="d" cx="902" cy="36" r="5" style="animation-delay:2.340s"/>
+  <circle class="d" cx="924" cy="36" r="5" style="animation-delay:2.400s"/>
+  <circle class="d" cx="946" cy="36" r="5" style="animation-delay:2.460s"/>
+  <circle class="d" cx="968" cy="36" r="5" style="animation-delay:2.520s"/>
+  <circle class="d k" cx="990" cy="36" r="5" style="animation-delay:2.580s,2.19s;animation-duration:7s,4.72s"/>
+  <circle class="d" cx="1012" cy="36" r="5" style="animation-delay:2.640s"/>
+  <circle class="d" cx="1034" cy="36" r="5" style="animation-delay:2.700s"/>
+  <circle class="d" cx="44" cy="58" r="5" style="animation-delay:0.040s"/>
+  <circle class="d" cx="66" cy="58" r="5" style="animation-delay:0.100s"/>
+  <circle class="d" cx="88" cy="58" r="5" style="animation-delay:0.160s"/>
+  <circle class="d" cx="110" cy="58" r="5" style="animation-delay:0.220s"/>
+  <circle class="d" cx="132" cy="58" r="5" style="animation-delay:0.280s"/>
+  <circle class="d" cx="154" cy="58" r="5" style="animation-delay:0.340s"/>
+  <circle class="d" cx="176" cy="58" r="5" style="animation-delay:0.400s"/>
+  <circle class="d" cx="198" cy="58" r="5" style="animation-delay:0.460s"/>
+  <circle class="d" cx="220" cy="58" r="5" style="animation-delay:0.520s"/>
+  <circle class="d" cx="242" cy="58" r="5" style="animation-delay:0.580s"/>
+  <circle class="d" cx="264" cy="58" r="5" style="animation-delay:0.640s"/>
+  <circle class="d" cx="286" cy="58" r="5" style="animation-delay:0.700s"/>
+  <circle class="d" cx="308" cy="58" r="5" style="animation-delay:0.760s"/>
+  <circle class="d" cx="330" cy="58" r="5" style="animation-delay:0.820s"/>
+  <circle class="d" cx="352" cy="58" r="5" style="animation-delay:0.880s"/>
+  <circle class="d" cx="374" cy="58" r="5" style="animation-delay:0.940s"/>
+  <circle class="t" cx="396" cy="58" r="5" style="animation-delay:1.000s"/>
+  <circle class="d" cx="418" cy="58" r="5" style="animation-delay:1.060s"/>
+  <circle class="d" cx="440" cy="58" r="5" style="animation-delay:1.120s"/>
+  <circle class="d" cx="462" cy="58" r="5" style="animation-delay:1.180s"/>
+  <circle class="d" cx="484" cy="58" r="5" style="animation-delay:1.240s"/>
+  <circle class="d" cx="506" cy="58" r="5" style="animation-delay:1.300s"/>
+  <circle class="d" cx="528" cy="58" r="5" style="animation-delay:1.360s"/>
+  <circle class="d" cx="550" cy="58" r="5" style="animation-delay:1.420s"/>
+  <circle class="d" cx="572" cy="58" r="5" style="animation-delay:1.480s"/>
+  <circle class="d" cx="594" cy="58" r="5" style="animation-delay:1.540s"/>
+  <circle class="d" cx="616" cy="58" r="5" style="animation-delay:1.600s"/>
+  <circle class="t" cx="638" cy="58" r="5" style="animation-delay:1.660s"/>
+  <circle class="d" cx="660" cy="58" r="5" style="animation-delay:1.720s"/>
+  <circle class="d" cx="682" cy="58" r="5" style="animation-delay:1.780s"/>
+  <circle class="d" cx="704" cy="58" r="5" style="animation-delay:1.840s"/>
+  <circle class="d" cx="726" cy="58" r="5" style="animation-delay:1.900s"/>
+  <circle class="d k" cx="748" cy="58" r="5" style="animation-delay:1.960s,2.44s;animation-duration:7s,3.77s"/>
+  <circle class="d k" cx="770" cy="58" r="5" style="animation-delay:2.020s,5.98s;animation-duration:7s,4.10s"/>
+  <circle class="d" cx="792" cy="58" r="5" style="animation-delay:2.080s"/>
+  <circle class="d" cx="814" cy="58" r="5" style="animation-delay:2.140s"/>
+  <circle class="d" cx="836" cy="58" r="5" style="animation-delay:2.200s"/>
+  <circle class="d" cx="858" cy="58" r="5" style="animation-delay:2.260s"/>
+  <circle class="d" cx="880" cy="58" r="5" style="animation-delay:2.320s"/>
+  <circle class="d" cx="902" cy="58" r="5" style="animation-delay:2.380s"/>
+  <circle class="d" cx="924" cy="58" r="5" style="animation-delay:2.440s"/>
+  <circle class="d" cx="946" cy="58" r="5" style="animation-delay:2.500s"/>
+  <circle class="d" cx="968" cy="58" r="5" style="animation-delay:2.560s"/>
+  <circle class="d" cx="990" cy="58" r="5" style="animation-delay:2.620s"/>
+  <circle class="d" cx="1012" cy="58" r="5" style="animation-delay:2.680s"/>
+  <circle class="d" cx="1034" cy="58" r="5" style="animation-delay:2.740s"/>
+  <circle class="d k" cx="44" cy="80" r="5" style="animation-delay:0.080s,1.49s;animation-duration:7s,3.38s"/>
+  <circle class="d k" cx="66" cy="80" r="5" style="animation-delay:0.140s,3.70s;animation-duration:7s,4.16s"/>
+  <circle class="d" cx="88" cy="80" r="5" style="animation-delay:0.200s"/>
+  <circle class="d" cx="110" cy="80" r="5" style="animation-delay:0.260s"/>
+  <circle class="d" cx="132" cy="80" r="5" style="animation-delay:0.320s"/>
+  <circle class="d" cx="154" cy="80" r="5" style="animation-delay:0.380s"/>
+  <circle class="d" cx="176" cy="80" r="5" style="animation-delay:0.440s"/>
+  <circle class="d" cx="198" cy="80" r="5" style="animation-delay:0.500s"/>
+  <circle class="d" cx="220" cy="80" r="5" style="animation-delay:0.560s"/>
+  <circle class="d" cx="242" cy="80" r="5" style="animation-delay:0.620s"/>
+  <circle class="d" cx="264" cy="80" r="5" style="animation-delay:0.680s"/>
+  <circle class="d" cx="286" cy="80" r="5" style="animation-delay:0.740s"/>
+  <circle class="d k" cx="308" cy="80" r="5" style="animation-delay:0.800s,5.48s;animation-duration:7s,6.18s"/>
+  <circle class="d" cx="330" cy="80" r="5" style="animation-delay:0.860s"/>
+  <circle class="d k" cx="352" cy="80" r="5" style="animation-delay:0.920s,5.40s;animation-duration:7s,3.94s"/>
+  <circle class="t" cx="374" cy="80" r="5" style="animation-delay:0.980s"/>
+  <circle class="t" cx="396" cy="80" r="5" style="animation-delay:1.040s"/>
+  <circle class="d" cx="418" cy="80" r="5" style="animation-delay:1.100s"/>
+  <circle class="d" cx="440" cy="80" r="5" style="animation-delay:1.160s"/>
+  <circle class="d" cx="462" cy="80" r="5" style="animation-delay:1.220s"/>
+  <circle class="d" cx="484" cy="80" r="5" style="animation-delay:1.280s"/>
+  <circle class="d" cx="506" cy="80" r="5" style="animation-delay:1.340s"/>
+  <circle class="d" cx="528" cy="80" r="5" style="animation-delay:1.400s"/>
+  <circle class="d" cx="550" cy="80" r="5" style="animation-delay:1.460s"/>
+  <circle class="d k" cx="572" cy="80" r="5" style="animation-delay:1.520s,4.62s;animation-duration:7s,6.50s"/>
+  <circle class="d" cx="594" cy="80" r="5" style="animation-delay:1.580s"/>
+  <circle class="d" cx="616" cy="80" r="5" style="animation-delay:1.640s"/>
+  <circle class="t" cx="638" cy="80" r="5" style="animation-delay:1.700s"/>
+  <circle class="d k" cx="660" cy="80" r="5" style="animation-delay:1.760s,0.66s;animation-duration:7s,7.60s"/>
+  <circle class="d" cx="682" cy="80" r="5" style="animation-delay:1.820s"/>
+  <circle class="t" cx="704" cy="80" r="5" style="animation-delay:1.880s"/>
+  <circle class="d" cx="726" cy="80" r="5" style="animation-delay:1.940s"/>
+  <circle class="d" cx="748" cy="80" r="5" style="animation-delay:2.000s"/>
+  <circle class="d k" cx="770" cy="80" r="5" style="animation-delay:2.060s,5.30s;animation-duration:7s,7.31s"/>
+  <circle class="d" cx="792" cy="80" r="5" style="animation-delay:2.120s"/>
+  <circle class="d" cx="814" cy="80" r="5" style="animation-delay:2.180s"/>
+  <circle class="d" cx="836" cy="80" r="5" style="animation-delay:2.240s"/>
+  <circle class="d" cx="858" cy="80" r="5" style="animation-delay:2.300s"/>
+  <circle class="d" cx="880" cy="80" r="5" style="animation-delay:2.360s"/>
+  <circle class="d" cx="902" cy="80" r="5" style="animation-delay:2.420s"/>
+  <circle class="d" cx="924" cy="80" r="5" style="animation-delay:2.480s"/>
+  <circle class="d" cx="946" cy="80" r="5" style="animation-delay:2.540s"/>
+  <circle class="d" cx="968" cy="80" r="5" style="animation-delay:2.600s"/>
+  <circle class="d" cx="990" cy="80" r="5" style="animation-delay:2.660s"/>
+  <circle class="d" cx="1012" cy="80" r="5" style="animation-delay:2.720s"/>
+  <circle class="d" cx="1034" cy="80" r="5" style="animation-delay:2.780s"/>
+  <circle class="d" cx="44" cy="102" r="5" style="animation-delay:0.120s"/>
+  <circle class="d" cx="66" cy="102" r="5" style="animation-delay:0.180s"/>
+  <circle class="d" cx="88" cy="102" r="5" style="animation-delay:0.240s"/>
+  <circle class="d" cx="110" cy="102" r="5" style="animation-delay:0.300s"/>
+  <circle class="d" cx="132" cy="102" r="5" style="animation-delay:0.360s"/>
+  <circle class="d" cx="154" cy="102" r="5" style="animation-delay:0.420s"/>
+  <circle class="t" cx="176" cy="102" r="5" style="animation-delay:0.480s"/>
+  <circle class="t" cx="198" cy="102" r="5" style="animation-delay:0.540s"/>
+  <circle class="t" cx="220" cy="102" r="5" style="animation-delay:0.600s"/>
+  <circle class="t" cx="242" cy="102" r="5" style="animation-delay:0.660s"/>
+  <circle class="d" cx="264" cy="102" r="5" style="animation-delay:0.720s"/>
+  <circle class="d" cx="286" cy="102" r="5" style="animation-delay:0.780s"/>
+  <circle class="d" cx="308" cy="102" r="5" style="animation-delay:0.840s"/>
+  <circle class="d" cx="330" cy="102" r="5" style="animation-delay:0.900s"/>
+  <circle class="t" cx="352" cy="102" r="5" style="animation-delay:0.960s"/>
+  <circle class="d" cx="374" cy="102" r="5" style="animation-delay:1.020s"/>
+  <circle class="t" cx="396" cy="102" r="5" style="animation-delay:1.080s"/>
+  <circle class="d" cx="418" cy="102" r="5" style="animation-delay:1.140s"/>
+  <circle class="d" cx="440" cy="102" r="5" style="animation-delay:1.200s"/>
+  <circle class="d" cx="462" cy="102" r="5" style="animation-delay:1.260s"/>
+  <circle class="t" cx="484" cy="102" r="5" style="animation-delay:1.320s"/>
+  <circle class="d" cx="506" cy="102" r="5" style="animation-delay:1.380s"/>
+  <circle class="t" cx="528" cy="102" r="5" style="animation-delay:1.440s"/>
+  <circle class="t" cx="550" cy="102" r="5" style="animation-delay:1.500s"/>
+  <circle class="d" cx="572" cy="102" r="5" style="animation-delay:1.560s"/>
+  <circle class="d" cx="594" cy="102" r="5" style="animation-delay:1.620s"/>
+  <circle class="d" cx="616" cy="102" r="5" style="animation-delay:1.680s"/>
+  <circle class="t" cx="638" cy="102" r="5" style="animation-delay:1.740s"/>
+  <circle class="d" cx="660" cy="102" r="5" style="animation-delay:1.800s"/>
+  <circle class="t" cx="682" cy="102" r="5" style="animation-delay:1.860s"/>
+  <circle class="d" cx="704" cy="102" r="5" style="animation-delay:1.920s"/>
+  <circle class="d" cx="726" cy="102" r="5" style="animation-delay:1.980s"/>
+  <circle class="d" cx="748" cy="102" r="5" style="animation-delay:2.040s"/>
+  <circle class="d" cx="770" cy="102" r="5" style="animation-delay:2.100s"/>
+  <circle class="t" cx="792" cy="102" r="5" style="animation-delay:2.160s"/>
+  <circle class="d" cx="814" cy="102" r="5" style="animation-delay:2.220s"/>
+  <circle class="t" cx="836" cy="102" r="5" style="animation-delay:2.280s"/>
+  <circle class="t" cx="858" cy="102" r="5" style="animation-delay:2.340s"/>
+  <circle class="d" cx="880" cy="102" r="5" style="animation-delay:2.400s"/>
+  <circle class="d" cx="902" cy="102" r="5" style="animation-delay:2.460s"/>
+  <circle class="d" cx="924" cy="102" r="5" style="animation-delay:2.520s"/>
+  <circle class="d" cx="946" cy="102" r="5" style="animation-delay:2.580s"/>
+  <circle class="d" cx="968" cy="102" r="5" style="animation-delay:2.640s"/>
+  <circle class="d" cx="990" cy="102" r="5" style="animation-delay:2.700s"/>
+  <circle class="d" cx="1012" cy="102" r="5" style="animation-delay:2.760s"/>
+  <circle class="d k" cx="1034" cy="102" r="5" style="animation-delay:2.820s,1.79s;animation-duration:7s,5.71s"/>
+  <circle class="d" cx="44" cy="124" r="5" style="animation-delay:0.160s"/>
+  <circle class="d" cx="66" cy="124" r="5" style="animation-delay:0.220s"/>
+  <circle class="d" cx="88" cy="124" r="5" style="animation-delay:0.280s"/>
+  <circle class="d" cx="110" cy="124" r="5" style="animation-delay:0.340s"/>
+  <circle class="d" cx="132" cy="124" r="5" style="animation-delay:0.400s"/>
+  <circle class="d" cx="154" cy="124" r="5" style="animation-delay:0.460s"/>
+  <circle class="t" cx="176" cy="124" r="5" style="animation-delay:0.520s"/>
+  <circle class="d k" cx="198" cy="124" r="5" style="animation-delay:0.580s,4.64s;animation-duration:7s,7.11s"/>
+  <circle class="d" cx="220" cy="124" r="5" style="animation-delay:0.640s"/>
+  <circle class="d" cx="242" cy="124" r="5" style="animation-delay:0.700s"/>
+  <circle class="t" cx="264" cy="124" r="5" style="animation-delay:0.760s"/>
+  <circle class="d" cx="286" cy="124" r="5" style="animation-delay:0.820s"/>
+  <circle class="d" cx="308" cy="124" r="5" style="animation-delay:0.880s"/>
+  <circle class="t" cx="330" cy="124" r="5" style="animation-delay:0.940s"/>
+  <circle class="d k" cx="352" cy="124" r="5" style="animation-delay:1.000s,4.57s;animation-duration:7s,6.01s"/>
+  <circle class="d" cx="374" cy="124" r="5" style="animation-delay:1.060s"/>
+  <circle class="t" cx="396" cy="124" r="5" style="animation-delay:1.120s"/>
+  <circle class="d" cx="418" cy="124" r="5" style="animation-delay:1.180s"/>
+  <circle class="d k" cx="440" cy="124" r="5" style="animation-delay:1.240s,0.82s;animation-duration:7s,3.40s"/>
+  <circle class="d" cx="462" cy="124" r="5" style="animation-delay:1.300s"/>
+  <circle class="t" cx="484" cy="124" r="5" style="animation-delay:1.360s"/>
+  <circle class="t" cx="506" cy="124" r="5" style="animation-delay:1.420s"/>
+  <circle class="d k" cx="528" cy="124" r="5" style="animation-delay:1.480s,0.06s;animation-duration:7s,6.03s"/>
+  <circle class="d" cx="550" cy="124" r="5" style="animation-delay:1.540s"/>
+  <circle class="t" cx="572" cy="124" r="5" style="animation-delay:1.600s"/>
+  <circle class="d" cx="594" cy="124" r="5" style="animation-delay:1.660s"/>
+  <circle class="d" cx="616" cy="124" r="5" style="animation-delay:1.720s"/>
+  <circle class="t" cx="638" cy="124" r="5" style="animation-delay:1.780s"/>
+  <circle class="t" cx="660" cy="124" r="5" style="animation-delay:1.840s"/>
+  <circle class="d" cx="682" cy="124" r="5" style="animation-delay:1.900s"/>
+  <circle class="d" cx="704" cy="124" r="5" style="animation-delay:1.960s"/>
+  <circle class="d" cx="726" cy="124" r="5" style="animation-delay:2.020s"/>
+  <circle class="d" cx="748" cy="124" r="5" style="animation-delay:2.080s"/>
+  <circle class="d" cx="770" cy="124" r="5" style="animation-delay:2.140s"/>
+  <circle class="t" cx="792" cy="124" r="5" style="animation-delay:2.200s"/>
+  <circle class="t" cx="814" cy="124" r="5" style="animation-delay:2.260s"/>
+  <circle class="d" cx="836" cy="124" r="5" style="animation-delay:2.320s"/>
+  <circle class="d" cx="858" cy="124" r="5" style="animation-delay:2.380s"/>
+  <circle class="t" cx="880" cy="124" r="5" style="animation-delay:2.440s"/>
+  <circle class="d" cx="902" cy="124" r="5" style="animation-delay:2.500s"/>
+  <circle class="d" cx="924" cy="124" r="5" style="animation-delay:2.560s"/>
+  <circle class="d" cx="946" cy="124" r="5" style="animation-delay:2.620s"/>
+  <circle class="d k" cx="968" cy="124" r="5" style="animation-delay:2.680s,1.38s;animation-duration:7s,7.04s"/>
+  <circle class="d" cx="990" cy="124" r="5" style="animation-delay:2.740s"/>
+  <circle class="d" cx="1012" cy="124" r="5" style="animation-delay:2.800s"/>
+  <circle class="d" cx="1034" cy="124" r="5" style="animation-delay:2.860s"/>
+  <circle class="d" cx="44" cy="146" r="5" style="animation-delay:0.200s"/>
+  <circle class="d" cx="66" cy="146" r="5" style="animation-delay:0.260s"/>
+  <circle class="d" cx="88" cy="146" r="5" style="animation-delay:0.320s"/>
+  <circle class="d" cx="110" cy="146" r="5" style="animation-delay:0.380s"/>
+  <circle class="d" cx="132" cy="146" r="5" style="animation-delay:0.440s"/>
+  <circle class="d k" cx="154" cy="146" r="5" style="animation-delay:0.500s,1.64s;animation-duration:7s,6.23s"/>
+  <circle class="t" cx="176" cy="146" r="5" style="animation-delay:0.560s"/>
+  <circle class="d" cx="198" cy="146" r="5" style="animation-delay:0.620s"/>
+  <circle class="d" cx="220" cy="146" r="5" style="animation-delay:0.680s"/>
+  <circle class="d" cx="242" cy="146" r="5" style="animation-delay:0.740s"/>
+  <circle class="t" cx="264" cy="146" r="5" style="animation-delay:0.800s"/>
+  <circle class="d k" cx="286" cy="146" r="5" style="animation-delay:0.860s,2.48s;animation-duration:7s,4.57s"/>
+  <circle class="d k" cx="308" cy="146" r="5" style="animation-delay:0.920s,0.04s;animation-duration:7s,5.07s"/>
+  <circle class="t" cx="330" cy="146" r="5" style="animation-delay:0.980s"/>
+  <circle class="t" cx="352" cy="146" r="5" style="animation-delay:1.040s"/>
+  <circle class="t" cx="374" cy="146" r="5" style="animation-delay:1.100s"/>
+  <circle class="t" cx="396" cy="146" r="5" style="animation-delay:1.160s"/>
+  <circle class="t" cx="418" cy="146" r="5" style="animation-delay:1.220s"/>
+  <circle class="d" cx="440" cy="146" r="5" style="animation-delay:1.280s"/>
+  <circle class="d" cx="462" cy="146" r="5" style="animation-delay:1.340s"/>
+  <circle class="t" cx="484" cy="146" r="5" style="animation-delay:1.400s"/>
+  <circle class="d" cx="506" cy="146" r="5" style="animation-delay:1.460s"/>
+  <circle class="d" cx="528" cy="146" r="5" style="animation-delay:1.520s"/>
+  <circle class="d" cx="550" cy="146" r="5" style="animation-delay:1.580s"/>
+  <circle class="d" cx="572" cy="146" r="5" style="animation-delay:1.640s"/>
+  <circle class="d" cx="594" cy="146" r="5" style="animation-delay:1.700s"/>
+  <circle class="d" cx="616" cy="146" r="5" style="animation-delay:1.760s"/>
+  <circle class="t" cx="638" cy="146" r="5" style="animation-delay:1.820s"/>
+  <circle class="d" cx="660" cy="146" r="5" style="animation-delay:1.880s"/>
+  <circle class="t" cx="682" cy="146" r="5" style="animation-delay:1.940s"/>
+  <circle class="d" cx="704" cy="146" r="5" style="animation-delay:2.000s"/>
+  <circle class="d" cx="726" cy="146" r="5" style="animation-delay:2.060s"/>
+  <circle class="d" cx="748" cy="146" r="5" style="animation-delay:2.120s"/>
+  <circle class="d" cx="770" cy="146" r="5" style="animation-delay:2.180s"/>
+  <circle class="t" cx="792" cy="146" r="5" style="animation-delay:2.240s"/>
+  <circle class="d" cx="814" cy="146" r="5" style="animation-delay:2.300s"/>
+  <circle class="d" cx="836" cy="146" r="5" style="animation-delay:2.360s"/>
+  <circle class="d" cx="858" cy="146" r="5" style="animation-delay:2.420s"/>
+  <circle class="d" cx="880" cy="146" r="5" style="animation-delay:2.480s"/>
+  <circle class="d" cx="902" cy="146" r="5" style="animation-delay:2.540s"/>
+  <circle class="d" cx="924" cy="146" r="5" style="animation-delay:2.600s"/>
+  <circle class="d" cx="946" cy="146" r="5" style="animation-delay:2.660s"/>
+  <circle class="d" cx="968" cy="146" r="5" style="animation-delay:2.720s"/>
+  <circle class="d" cx="990" cy="146" r="5" style="animation-delay:2.780s"/>
+  <circle class="d" cx="1012" cy="146" r="5" style="animation-delay:2.840s"/>
+  <circle class="d" cx="1034" cy="146" r="5" style="animation-delay:2.900s"/>
+  <circle class="d" cx="44" cy="168" r="5" style="animation-delay:0.240s"/>
+  <circle class="d" cx="66" cy="168" r="5" style="animation-delay:0.300s"/>
+  <circle class="d" cx="88" cy="168" r="5" style="animation-delay:0.360s"/>
+  <circle class="d" cx="110" cy="168" r="5" style="animation-delay:0.420s"/>
+  <circle class="d k" cx="132" cy="168" r="5" style="animation-delay:0.480s,2.06s;animation-duration:7s,7.41s"/>
+  <circle class="d" cx="154" cy="168" r="5" style="animation-delay:0.540s"/>
+  <circle class="t" cx="176" cy="168" r="5" style="animation-delay:0.600s"/>
+  <circle class="t" cx="198" cy="168" r="5" style="animation-delay:0.660s"/>
+  <circle class="t" cx="220" cy="168" r="5" style="animation-delay:0.720s"/>
+  <circle class="t" cx="242" cy="168" r="5" style="animation-delay:0.780s"/>
+  <circle class="d" cx="264" cy="168" r="5" style="animation-delay:0.840s"/>
+  <circle class="d" cx="286" cy="168" r="5" style="animation-delay:0.900s"/>
+  <circle class="d" cx="308" cy="168" r="5" style="animation-delay:0.960s"/>
+  <circle class="d" cx="330" cy="168" r="5" style="animation-delay:1.020s"/>
+  <circle class="d" cx="352" cy="168" r="5" style="animation-delay:1.080s"/>
+  <circle class="d" cx="374" cy="168" r="5" style="animation-delay:1.140s"/>
+  <circle class="t" cx="396" cy="168" r="5" style="animation-delay:1.200s"/>
+  <circle class="d" cx="418" cy="168" r="5" style="animation-delay:1.260s"/>
+  <circle class="d" cx="440" cy="168" r="5" style="animation-delay:1.320s"/>
+  <circle class="d" cx="462" cy="168" r="5" style="animation-delay:1.380s"/>
+  <circle class="t" cx="484" cy="168" r="5" style="animation-delay:1.440s"/>
+  <circle class="d" cx="506" cy="168" r="5" style="animation-delay:1.500s"/>
+  <circle class="d" cx="528" cy="168" r="5" style="animation-delay:1.560s"/>
+  <circle class="d" cx="550" cy="168" r="5" style="animation-delay:1.620s"/>
+  <circle class="d" cx="572" cy="168" r="5" style="animation-delay:1.680s"/>
+  <circle class="d" cx="594" cy="168" r="5" style="animation-delay:1.740s"/>
+  <circle class="d" cx="616" cy="168" r="5" style="animation-delay:1.800s"/>
+  <circle class="t" cx="638" cy="168" r="5" style="animation-delay:1.860s"/>
+  <circle class="d" cx="660" cy="168" r="5" style="animation-delay:1.920s"/>
+  <circle class="d" cx="682" cy="168" r="5" style="animation-delay:1.980s"/>
+  <circle class="t" cx="704" cy="168" r="5" style="animation-delay:2.040s"/>
+  <circle class="d" cx="726" cy="168" r="5" style="animation-delay:2.100s"/>
+  <circle class="d" cx="748" cy="168" r="5" style="animation-delay:2.160s"/>
+  <circle class="d" cx="770" cy="168" r="5" style="animation-delay:2.220s"/>
+  <circle class="t" cx="792" cy="168" r="5" style="animation-delay:2.280s"/>
+  <circle class="d" cx="814" cy="168" r="5" style="animation-delay:2.340s"/>
+  <circle class="d" cx="836" cy="168" r="5" style="animation-delay:2.400s"/>
+  <circle class="d" cx="858" cy="168" r="5" style="animation-delay:2.460s"/>
+  <circle class="d" cx="880" cy="168" r="5" style="animation-delay:2.520s"/>
+  <circle class="d" cx="902" cy="168" r="5" style="animation-delay:2.580s"/>
+  <circle class="d" cx="924" cy="168" r="5" style="animation-delay:2.640s"/>
+  <circle class="d" cx="946" cy="168" r="5" style="animation-delay:2.700s"/>
+  <circle class="d" cx="968" cy="168" r="5" style="animation-delay:2.760s"/>
+  <circle class="d" cx="990" cy="168" r="5" style="animation-delay:2.820s"/>
+  <circle class="d" cx="1012" cy="168" r="5" style="animation-delay:2.880s"/>
+  <circle class="d" cx="1034" cy="168" r="5" style="animation-delay:2.940s"/>
+  <circle class="d k" cx="44" cy="190" r="5" style="animation-delay:0.280s,0.79s;animation-duration:7s,4.99s"/>
+  <circle class="d k" cx="66" cy="190" r="5" style="animation-delay:0.340s,4.16s;animation-duration:7s,7.49s"/>
+  <circle class="d" cx="88" cy="190" r="5" style="animation-delay:0.400s"/>
+  <circle class="d" cx="110" cy="190" r="5" style="animation-delay:0.460s"/>
+  <circle class="d" cx="132" cy="190" r="5" style="animation-delay:0.520s"/>
+  <circle class="d" cx="154" cy="190" r="5" style="animation-delay:0.580s"/>
+  <circle class="t" cx="176" cy="190" r="5" style="animation-delay:0.640s"/>
+  <circle class="d" cx="198" cy="190" r="5" style="animation-delay:0.700s"/>
+  <circle class="d" cx="220" cy="190" r="5" style="animation-delay:0.760s"/>
+  <circle class="d" cx="242" cy="190" r="5" style="animation-delay:0.820s"/>
+  <circle class="d k" cx="264" cy="190" r="5" style="animation-delay:0.880s,4.87s;animation-duration:7s,5.96s"/>
+  <circle class="d" cx="286" cy="190" r="5" style="animation-delay:0.940s"/>
+  <circle class="d" cx="308" cy="190" r="5" style="animation-delay:1.000s"/>
+  <circle class="d" cx="330" cy="190" r="5" style="animation-delay:1.060s"/>
+  <circle class="d" cx="352" cy="190" r="5" style="animation-delay:1.120s"/>
+  <circle class="d" cx="374" cy="190" r="5" style="animation-delay:1.180s"/>
+  <circle class="d" cx="396" cy="190" r="5" style="animation-delay:1.240s"/>
+  <circle class="d" cx="418" cy="190" r="5" style="animation-delay:1.300s"/>
+  <circle class="d" cx="440" cy="190" r="5" style="animation-delay:1.360s"/>
+  <circle class="d" cx="462" cy="190" r="5" style="animation-delay:1.420s"/>
+  <circle class="d" cx="484" cy="190" r="5" style="animation-delay:1.480s"/>
+  <circle class="d" cx="506" cy="190" r="5" style="animation-delay:1.540s"/>
+  <circle class="d" cx="528" cy="190" r="5" style="animation-delay:1.600s"/>
+  <circle class="d k" cx="550" cy="190" r="5" style="animation-delay:1.660s,3.68s;animation-duration:7s,4.12s"/>
+  <circle class="d" cx="572" cy="190" r="5" style="animation-delay:1.720s"/>
+  <circle class="d" cx="594" cy="190" r="5" style="animation-delay:1.780s"/>
+  <circle class="d" cx="616" cy="190" r="5" style="animation-delay:1.840s"/>
+  <circle class="d" cx="638" cy="190" r="5" style="animation-delay:1.900s"/>
+  <circle class="d" cx="660" cy="190" r="5" style="animation-delay:1.960s"/>
+  <circle class="d" cx="682" cy="190" r="5" style="animation-delay:2.020s"/>
+  <circle class="d" cx="704" cy="190" r="5" style="animation-delay:2.080s"/>
+  <circle class="d" cx="726" cy="190" r="5" style="animation-delay:2.140s"/>
+  <circle class="d k" cx="748" cy="190" r="5" style="animation-delay:2.200s,4.14s;animation-duration:7s,5.03s"/>
+  <circle class="d" cx="770" cy="190" r="5" style="animation-delay:2.260s"/>
+  <circle class="d" cx="792" cy="190" r="5" style="animation-delay:2.320s"/>
+  <circle class="d" cx="814" cy="190" r="5" style="animation-delay:2.380s"/>
+  <circle class="d" cx="836" cy="190" r="5" style="animation-delay:2.440s"/>
+  <circle class="d" cx="858" cy="190" r="5" style="animation-delay:2.500s"/>
+  <circle class="d" cx="880" cy="190" r="5" style="animation-delay:2.560s"/>
+  <circle class="d" cx="902" cy="190" r="5" style="animation-delay:2.620s"/>
+  <circle class="d" cx="924" cy="190" r="5" style="animation-delay:2.680s"/>
+  <circle class="d" cx="946" cy="190" r="5" style="animation-delay:2.740s"/>
+  <circle class="d" cx="968" cy="190" r="5" style="animation-delay:2.800s"/>
+  <circle class="d" cx="990" cy="190" r="5" style="animation-delay:2.860s"/>
+  <circle class="d" cx="1012" cy="190" r="5" style="animation-delay:2.920s"/>
+  <circle class="d" cx="1034" cy="190" r="5" style="animation-delay:2.980s"/>
+  <circle class="d" cx="44" cy="212" r="5" style="animation-delay:0.320s"/>
+  <circle class="d" cx="66" cy="212" r="5" style="animation-delay:0.380s"/>
+  <circle class="d" cx="88" cy="212" r="5" style="animation-delay:0.440s"/>
+  <circle class="d" cx="110" cy="212" r="5" style="animation-delay:0.500s"/>
+  <circle class="d" cx="132" cy="212" r="5" style="animation-delay:0.560s"/>
+  <circle class="d" cx="154" cy="212" r="5" style="animation-delay:0.620s"/>
+  <circle class="t" cx="176" cy="212" r="5" style="animation-delay:0.680s"/>
+  <circle class="d k" cx="198" cy="212" r="5" style="animation-delay:0.740s,0.46s;animation-duration:7s,4.31s"/>
+  <circle class="d" cx="220" cy="212" r="5" style="animation-delay:0.800s"/>
+  <circle class="d" cx="242" cy="212" r="5" style="animation-delay:0.860s"/>
+  <circle class="d" cx="264" cy="212" r="5" style="animation-delay:0.920s"/>
+  <circle class="d" cx="286" cy="212" r="5" style="animation-delay:0.980s"/>
+  <circle class="d" cx="308" cy="212" r="5" style="animation-delay:1.040s"/>
+  <circle class="d k" cx="330" cy="212" r="5" style="animation-delay:1.100s,2.82s;animation-duration:7s,5.80s"/>
+  <circle class="d" cx="352" cy="212" r="5" style="animation-delay:1.160s"/>
+  <circle class="d" cx="374" cy="212" r="5" style="animation-delay:1.220s"/>
+  <circle class="d" cx="396" cy="212" r="5" style="animation-delay:1.280s"/>
+  <circle class="d" cx="418" cy="212" r="5" style="animation-delay:1.340s"/>
+  <circle class="d k" cx="440" cy="212" r="5" style="animation-delay:1.400s,0.27s;animation-duration:7s,3.47s"/>
+  <circle class="d" cx="462" cy="212" r="5" style="animation-delay:1.460s"/>
+  <circle class="d" cx="484" cy="212" r="5" style="animation-delay:1.520s"/>
+  <circle class="d" cx="506" cy="212" r="5" style="animation-delay:1.580s"/>
+  <circle class="d" cx="528" cy="212" r="5" style="animation-delay:1.640s"/>
+  <circle class="d" cx="550" cy="212" r="5" style="animation-delay:1.700s"/>
+  <circle class="d" cx="572" cy="212" r="5" style="animation-delay:1.760s"/>
+  <circle class="d" cx="594" cy="212" r="5" style="animation-delay:1.820s"/>
+  <circle class="d" cx="616" cy="212" r="5" style="animation-delay:1.880s"/>
+  <circle class="d" cx="638" cy="212" r="5" style="animation-delay:1.940s"/>
+  <circle class="d" cx="660" cy="212" r="5" style="animation-delay:2.000s"/>
+  <circle class="d" cx="682" cy="212" r="5" style="animation-delay:2.060s"/>
+  <circle class="d" cx="704" cy="212" r="5" style="animation-delay:2.120s"/>
+  <circle class="d" cx="726" cy="212" r="5" style="animation-delay:2.180s"/>
+  <circle class="d" cx="748" cy="212" r="5" style="animation-delay:2.240s"/>
+  <circle class="d" cx="770" cy="212" r="5" style="animation-delay:2.300s"/>
+  <circle class="d k" cx="792" cy="212" r="5" style="animation-delay:2.360s,4.36s;animation-duration:7s,6.23s"/>
+  <circle class="d" cx="814" cy="212" r="5" style="animation-delay:2.420s"/>
+  <circle class="d" cx="836" cy="212" r="5" style="animation-delay:2.480s"/>
+  <circle class="d" cx="858" cy="212" r="5" style="animation-delay:2.540s"/>
+  <circle class="d" cx="880" cy="212" r="5" style="animation-delay:2.600s"/>
+  <circle class="d" cx="902" cy="212" r="5" style="animation-delay:2.660s"/>
+  <circle class="d k" cx="924" cy="212" r="5" style="animation-delay:2.720s,0.47s;animation-duration:7s,4.77s"/>
+  <circle class="d" cx="946" cy="212" r="5" style="animation-delay:2.780s"/>
+  <circle class="d" cx="968" cy="212" r="5" style="animation-delay:2.840s"/>
+  <circle class="d" cx="990" cy="212" r="5" style="animation-delay:2.900s"/>
+  <circle class="d" cx="1012" cy="212" r="5" style="animation-delay:2.960s"/>
+  <circle class="d k" cx="1034" cy="212" r="5" style="animation-delay:3.020s,0.01s;animation-duration:7s,7.18s"/>
+  <circle class="d" cx="44" cy="234" r="5" style="animation-delay:0.360s"/>
+  <circle class="d k" cx="66" cy="234" r="5" style="animation-delay:0.420s,4.61s;animation-duration:7s,4.59s"/>
+  <circle class="d" cx="88" cy="234" r="5" style="animation-delay:0.480s"/>
+  <circle class="d" cx="110" cy="234" r="5" style="animation-delay:0.540s"/>
+  <circle class="d" cx="132" cy="234" r="5" style="animation-delay:0.600s"/>
+  <circle class="d k" cx="154" cy="234" r="5" style="animation-delay:0.660s,5.96s;animation-duration:7s,4.03s"/>
+  <circle class="d" cx="176" cy="234" r="5" style="animation-delay:0.720s"/>
+  <circle class="d" cx="198" cy="234" r="5" style="animation-delay:0.780s"/>
+  <circle class="d k" cx="220" cy="234" r="5" style="animation-delay:0.840s,1.04s;animation-duration:7s,6.78s"/>
+  <circle class="d" cx="242" cy="234" r="5" style="animation-delay:0.900s"/>
+  <circle class="d" cx="264" cy="234" r="5" style="animation-delay:0.960s"/>
+  <circle class="d" cx="286" cy="234" r="5" style="animation-delay:1.020s"/>
+  <circle class="d" cx="308" cy="234" r="5" style="animation-delay:1.080s"/>
+  <circle class="d" cx="330" cy="234" r="5" style="animation-delay:1.140s"/>
+  <circle class="d" cx="352" cy="234" r="5" style="animation-delay:1.200s"/>
+  <circle class="d" cx="374" cy="234" r="5" style="animation-delay:1.260s"/>
+  <circle class="d" cx="396" cy="234" r="5" style="animation-delay:1.320s"/>
+  <circle class="d" cx="418" cy="234" r="5" style="animation-delay:1.380s"/>
+  <circle class="d" cx="440" cy="234" r="5" style="animation-delay:1.440s"/>
+  <circle class="d" cx="462" cy="234" r="5" style="animation-delay:1.500s"/>
+  <circle class="d" cx="484" cy="234" r="5" style="animation-delay:1.560s"/>
+  <circle class="d" cx="506" cy="234" r="5" style="animation-delay:1.620s"/>
+  <circle class="d" cx="528" cy="234" r="5" style="animation-delay:1.680s"/>
+  <circle class="d" cx="550" cy="234" r="5" style="animation-delay:1.740s"/>
+  <circle class="d" cx="572" cy="234" r="5" style="animation-delay:1.800s"/>
+  <circle class="d" cx="594" cy="234" r="5" style="animation-delay:1.860s"/>
+  <circle class="d" cx="616" cy="234" r="5" style="animation-delay:1.920s"/>
+  <circle class="d" cx="638" cy="234" r="5" style="animation-delay:1.980s"/>
+  <circle class="d" cx="660" cy="234" r="5" style="animation-delay:2.040s"/>
+  <circle class="d" cx="682" cy="234" r="5" style="animation-delay:2.100s"/>
+  <circle class="d" cx="704" cy="234" r="5" style="animation-delay:2.160s"/>
+  <circle class="d" cx="726" cy="234" r="5" style="animation-delay:2.220s"/>
+  <circle class="d" cx="748" cy="234" r="5" style="animation-delay:2.280s"/>
+  <circle class="d" cx="770" cy="234" r="5" style="animation-delay:2.340s"/>
+  <circle class="d" cx="792" cy="234" r="5" style="animation-delay:2.400s"/>
+  <circle class="d" cx="814" cy="234" r="5" style="animation-delay:2.460s"/>
+  <circle class="d" cx="836" cy="234" r="5" style="animation-delay:2.520s"/>
+  <circle class="d" cx="858" cy="234" r="5" style="animation-delay:2.580s"/>
+  <circle class="d k" cx="880" cy="234" r="5" style="animation-delay:2.640s,1.39s;animation-duration:7s,3.98s"/>
+  <circle class="d k" cx="902" cy="234" r="5" style="animation-delay:2.700s,3.47s;animation-duration:7s,7.06s"/>
+  <circle class="d" cx="924" cy="234" r="5" style="animation-delay:2.760s"/>
+  <circle class="d" cx="946" cy="234" r="5" style="animation-delay:2.820s"/>
+  <circle class="d" cx="968" cy="234" r="5" style="animation-delay:2.880s"/>
+  <circle class="d" cx="990" cy="234" r="5" style="animation-delay:2.940s"/>
+  <circle class="d" cx="1012" cy="234" r="5" style="animation-delay:3.000s"/>
+  <circle class="d" cx="1034" cy="234" r="5" style="animation-delay:3.060s"/>
+</g>
+<rect x=".5" y=".5" width="1077" height="269" rx="14" fill="none" stroke="#262626"/>
+</svg>
